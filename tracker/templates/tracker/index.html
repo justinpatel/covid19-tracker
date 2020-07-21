@@ -1,0 +1,8 @@
+{% extends 'tracker/layout.html' %}
+
+{% block main %}
+    <h1>India</h1>
+    {% for key,item in total %}
+        {{ key }} {{ item }} <br><hr>
+    {% endfor %}
+{% endblock %}
