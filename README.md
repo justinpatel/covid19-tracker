@@ -2,7 +2,7 @@
 unofficial simple website
 
 This is just for fun and learn how to work with API in Django framework.
-I have used data from this API:(https://api.covid19india.org/data.json)
+I have used data from this API: https://api.covid19india.org/data.json
 
 As of now, it shows the daily data of confirmed, deceased, recovered cases of the recent day.
 In addition to that, total confirmed, deceased, recovered cases of all over India is also shown.
